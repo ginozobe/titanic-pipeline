@@ -15,17 +15,21 @@ The project is decomposed in 3 parts:
 The framework of this notebook is:
 
 Preliminary Work:
-General Exploration
-NaN values
-Feature Exploration
-Analysis of the features
-Categorical and Integer Numerical
-Numerical
-Text
-Feature Engineering
-Modeling
-Simple Models & Selection
-Hyper-Parameters Optimization
-Ensemble Modeling
-Submission
+
+  + General Exploration  
+  + NaN values  
+  + Feature Exploration  
+
+Analysis of the features:    
++ Categorical and Integer Numerical  
++ Numerical  
++ Text  
+
++ Feature Engineering  
+
+Modeling  
++ Simple Models & Selection  
++ Hyper-Parameters Optimization  
++ Ensemble Modeling  
+Submission  
 For this competition, the current Kaggle Leaderboard accuracy I reached is 0.832402
